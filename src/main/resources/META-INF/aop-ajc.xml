@@ -1,0 +1,8 @@
+<aspectj>
+	<aspects>
+		<aspect name="com.ashera.aop.FillBackgroundAspect" />
+	</aspects>
+	<weaver options="-verbose">
+  	</weaver>
+</aspectj>
+
